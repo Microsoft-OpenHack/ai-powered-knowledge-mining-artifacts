@@ -1,0 +1,1001 @@
+AgeOnDeparture,Destination,DepartureMonth,DurationOfStay_Days,Claim
+52,dubai,12,18,1
+40,dubai,4,4,0
+25,new york,8,10,0
+19,new york,12,6,0
+47,las vegas,1,7,1
+52,dubai,7,15,1
+37,san francisco,12,8,0
+21,san francisco,11,2,0
+68,las vegas,8,16,1
+45,new york,2,6,0
+48,las vegas,3,7,1
+34,new york,11,11,0
+29,san francisco,10,13,0
+35,london,10,6,0
+20,new york,5,13,0
+44,san francisco,8,15,1
+36,dubai,3,6,0
+61,london,12,5,0
+46,dubai,4,5,0
+43,london,10,18,0
+50,london,8,19,1
+59,dubai,4,21,1
+44,san francisco,8,21,1
+68,london,4,2,0
+43,san francisco,8,18,1
+60,london,10,9,0
+27,dubai,11,4,0
+26,san francisco,2,18,0
+56,dubai,2,20,1
+53,new york,7,5,0
+33,dubai,8,8,1
+27,dubai,6,16,1
+46,dubai,6,15,1
+35,london,5,10,0
+53,las vegas,2,8,1
+67,dubai,2,18,1
+50,london,3,3,0
+26,dubai,7,13,1
+47,san francisco,7,14,1
+37,new york,8,19,1
+65,dubai,6,8,1
+25,new york,2,2,0
+56,new york,11,7,0
+60,las vegas,8,10,1
+32,dubai,1,2,0
+45,dubai,6,8,1
+61,new york,2,19,1
+41,las vegas,12,2,0
+45,san francisco,5,15,1
+70,london,6,18,1
+27,dubai,5,6,0
+20,london,2,8,0
+30,london,1,3,0
+69,london,4,3,0
+57,san francisco,1,18,1
+69,new york,12,17,1
+32,las vegas,4,6,1
+28,las vegas,10,18,1
+70,london,5,21,1
+23,las vegas,6,19,1
+34,london,4,5,0
+22,las vegas,9,5,0
+29,las vegas,7,3,0
+57,san francisco,4,13,1
+50,london,9,17,1
+18,dubai,2,7,0
+56,dubai,3,8,1
+31,san francisco,11,16,0
+63,dubai,9,18,1
+52,london,10,13,0
+22,san francisco,6,17,0
+36,dubai,11,10,0
+50,dubai,4,6,1
+59,london,9,7,0
+27,san francisco,12,9,0
+20,las vegas,9,7,0
+48,dubai,11,8,0
+64,las vegas,11,2,0
+45,san francisco,11,8,0
+21,london,10,21,0
+46,dubai,3,7,0
+70,las vegas,2,7,1
+59,london,9,15,1
+39,new york,1,21,0
+42,las vegas,3,11,1
+37,san francisco,6,5,0
+63,dubai,11,6,0
+32,las vegas,5,11,1
+36,london,9,21,1
+47,dubai,10,16,1
+68,las vegas,3,8,1
+28,dubai,11,10,0
+64,las vegas,2,13,1
+68,san francisco,2,14,1
+44,new york,6,10,1
+58,new york,5,20,1
+27,dubai,6,14,1
+48,london,1,17,0
+63,london,4,12,1
+27,new york,10,21,0
+63,san francisco,10,16,1
+19,san francisco,8,12,0
+65,san francisco,9,7,0
+51,london,12,12,1
+28,london,6,6,0
+22,london,1,14,0
+62,san francisco,8,5,1
+36,las vegas,6,3,0
+62,san francisco,8,8,1
+29,dubai,1,8,0
+20,new york,6,9,0
+25,london,4,8,0
+60,new york,2,7,0
+30,new york,4,16,0
+24,london,10,6,0
+26,dubai,8,2,0
+22,dubai,7,19,1
+23,london,7,7,0
+38,dubai,10,19,1
+52,london,11,18,1
+51,dubai,3,8,0
+40,london,6,2,0
+29,london,11,16,0
+28,las vegas,12,6,0
+32,san francisco,1,6,0
+23,london,12,2,0
+38,new york,12,16,1
+51,new york,3,6,0
+63,dubai,9,21,1
+64,dubai,6,2,0
+27,san francisco,4,10,0
+39,las vegas,6,12,1
+18,london,9,21,0
+42,new york,11,9,0
+47,london,8,13,1
+22,dubai,5,4,0
+60,las vegas,6,20,1
+50,san francisco,6,19,1
+27,san francisco,10,15,0
+42,las vegas,9,20,1
+46,las vegas,11,14,1
+71,london,7,8,1
+58,las vegas,11,13,1
+62,dubai,7,16,1
+34,new york,9,4,0
+41,las vegas,8,13,1
+61,dubai,1,21,1
+50,san francisco,8,18,1
+34,las vegas,7,15,1
+41,san francisco,6,17,1
+57,london,7,13,1
+44,las vegas,1,4,0
+57,las vegas,5,17,1
+19,london,3,14,0
+54,san francisco,1,17,1
+53,dubai,5,2,0
+53,san francisco,8,2,0
+60,new york,2,19,1
+48,dubai,8,12,1
+61,new york,8,16,1
+43,london,1,3,0
+28,las vegas,9,9,1
+55,london,1,2,0
+31,london,5,5,0
+28,las vegas,9,2,0
+26,new york,7,19,1
+28,dubai,7,14,1
+20,new york,10,13,0
+36,new york,6,12,1
+34,new york,3,20,0
+18,san francisco,3,6,0
+32,dubai,2,7,0
+24,dubai,5,17,1
+19,london,10,6,0
+45,london,9,17,1
+29,new york,11,21,0
+56,dubai,3,10,1
+19,new york,1,21,0
+23,las vegas,12,17,1
+35,las vegas,4,15,1
+30,san francisco,9,11,0
+64,london,8,7,1
+55,las vegas,1,11,1
+26,dubai,12,2,0
+55,san francisco,8,15,1
+25,dubai,4,7,0
+71,dubai,5,20,1
+53,san francisco,10,18,1
+68,new york,11,17,1
+61,new york,3,6,0
+46,las vegas,3,3,0
+61,new york,5,20,1
+36,las vegas,11,10,1
+72,dubai,9,4,1
+70,new york,10,7,0
+65,dubai,10,4,0
+63,san francisco,3,9,0
+60,las vegas,10,2,0
+42,las vegas,3,6,0
+22,san francisco,11,8,0
+21,new york,6,18,0
+65,san francisco,12,3,0
+20,new york,10,14,0
+68,london,8,11,1
+34,dubai,11,21,1
+25,new york,5,9,0
+52,london,12,14,1
+62,las vegas,12,12,1
+47,new york,8,8,1
+31,las vegas,9,13,1
+60,new york,5,19,1
+41,san francisco,2,20,0
+59,san francisco,9,9,0
+36,san francisco,8,7,0
+62,las vegas,1,9,1
+53,san francisco,8,15,1
+43,dubai,6,2,0
+58,las vegas,5,3,0
+32,las vegas,4,4,0
+48,dubai,4,6,0
+64,las vegas,10,17,1
+69,new york,8,2,0
+46,london,10,14,0
+32,london,3,19,0
+69,new york,7,9,1
+23,new york,3,13,0
+29,san francisco,6,19,1
+25,london,11,4,0
+27,san francisco,3,14,0
+31,dubai,2,9,0
+31,las vegas,6,4,0
+38,las vegas,1,8,1
+19,london,4,3,0
+30,london,7,15,1
+35,san francisco,2,3,0
+65,san francisco,5,16,1
+39,london,11,11,0
+34,las vegas,3,7,0
+67,las vegas,2,8,1
+60,las vegas,9,18,1
+42,new york,10,4,0
+56,new york,2,19,1
+48,las vegas,3,7,1
+27,san francisco,3,6,0
+51,london,3,3,0
+45,new york,12,14,1
+66,new york,3,16,1
+19,new york,11,3,0
+55,new york,6,7,0
+36,las vegas,4,11,1
+26,london,10,10,0
+49,dubai,10,14,1
+62,san francisco,3,11,0
+64,las vegas,3,15,1
+64,london,8,2,0
+29,san francisco,11,13,0
+35,las vegas,6,2,0
+40,new york,10,11,0
+49,dubai,3,14,1
+59,new york,10,2,0
+61,las vegas,11,2,0
+35,las vegas,6,10,1
+57,dubai,5,11,1
+46,london,8,12,1
+20,san francisco,3,17,0
+25,san francisco,7,8,0
+42,las vegas,7,16,1
+54,san francisco,7,11,1
+72,las vegas,6,10,1
+69,san francisco,7,5,1
+28,new york,1,2,0
+36,dubai,7,21,1
+34,new york,10,5,0
+49,new york,8,11,1
+40,london,8,21,1
+51,las vegas,6,16,1
+59,london,10,14,0
+52,new york,1,5,0
+36,london,4,17,1
+71,london,3,10,0
+54,dubai,6,9,1
+71,san francisco,9,9,1
+58,new york,11,7,0
+36,dubai,1,11,0
+65,dubai,9,20,1
+38,dubai,1,6,0
+64,london,9,12,1
+62,london,6,21,1
+33,san francisco,7,15,1
+51,london,8,19,1
+23,las vegas,2,3,0
+62,san francisco,9,18,1
+67,new york,12,5,0
+57,dubai,2,12,1
+33,las vegas,8,17,1
+31,las vegas,8,6,1
+19,las vegas,10,10,0
+39,new york,9,11,0
+42,new york,12,20,1
+43,london,7,12,1
+22,london,2,21,0
+58,london,7,20,1
+36,san francisco,10,9,0
+41,las vegas,4,6,1
+47,las vegas,4,10,1
+45,london,2,11,0
+69,las vegas,9,15,1
+59,las vegas,6,16,1
+47,new york,5,5,0
+36,new york,10,10,0
+36,new york,4,2,0
+34,dubai,8,17,1
+68,london,8,9,1
+27,dubai,4,10,0
+64,london,8,17,1
+30,dubai,2,16,1
+59,dubai,5,20,1
+55,dubai,7,20,1
+23,new york,9,6,0
+44,las vegas,1,13,1
+43,las vegas,8,2,0
+53,san francisco,12,12,1
+31,dubai,4,12,1
+28,san francisco,2,3,0
+39,london,3,10,0
+43,new york,1,8,0
+35,london,4,3,0
+27,london,7,10,0
+59,dubai,8,4,1
+49,new york,8,16,1
+59,new york,3,13,0
+65,dubai,10,6,0
+58,san francisco,11,16,1
+62,san francisco,12,7,0
+46,dubai,4,11,1
+50,las vegas,9,20,1
+44,san francisco,1,6,0
+51,las vegas,12,8,1
+56,san francisco,3,4,0
+33,dubai,2,8,0
+43,london,8,5,0
+64,new york,1,2,0
+35,san francisco,3,12,0
+41,new york,4,4,0
+23,las vegas,8,13,1
+31,san francisco,8,4,0
+38,san francisco,1,3,0
+53,london,3,3,0
+40,london,9,8,0
+49,dubai,12,10,1
+72,london,4,6,0
+38,london,2,9,0
+56,san francisco,12,14,1
+35,las vegas,11,19,1
+31,las vegas,4,15,1
+65,las vegas,2,20,1
+46,las vegas,10,13,1
+39,new york,10,19,0
+43,las vegas,3,12,1
+50,dubai,11,20,1
+42,new york,3,20,1
+68,new york,8,10,1
+57,new york,6,11,1
+67,dubai,4,2,0
+20,las vegas,4,3,0
+49,san francisco,3,13,0
+31,london,9,12,0
+24,las vegas,9,15,1
+24,dubai,8,15,1
+47,las vegas,2,11,1
+49,london,4,6,0
+51,san francisco,6,20,1
+25,london,9,2,0
+27,london,8,4,0
+38,san francisco,11,18,0
+70,dubai,1,20,1
+22,london,1,18,0
+33,london,8,19,1
+38,london,4,9,0
+63,dubai,8,13,1
+69,las vegas,6,6,1
+61,new york,10,11,0
+33,dubai,7,20,1
+18,new york,6,6,0
+39,san francisco,12,6,0
+68,new york,8,14,1
+25,las vegas,8,20,1
+42,new york,4,18,1
+26,dubai,6,6,0
+64,london,10,20,1
+24,dubai,3,15,0
+42,san francisco,3,8,0
+19,new york,1,19,0
+47,las vegas,1,5,0
+53,san francisco,5,5,0
+72,dubai,8,13,1
+52,san francisco,5,16,1
+22,san francisco,7,12,0
+22,san francisco,5,16,0
+62,dubai,6,7,1
+28,dubai,6,15,1
+52,san francisco,5,3,0
+44,las vegas,5,17,1
+70,san francisco,2,13,1
+47,san francisco,2,12,0
+37,san francisco,2,8,0
+60,dubai,5,16,1
+68,las vegas,7,21,1
+46,new york,1,16,0
+29,san francisco,4,9,0
+51,new york,12,16,1
+40,dubai,5,18,1
+35,dubai,11,21,1
+27,dubai,9,16,1
+62,london,8,19,1
+71,las vegas,9,20,1
+35,las vegas,7,9,1
+58,london,1,13,0
+40,dubai,10,8,0
+25,san francisco,4,9,0
+53,dubai,5,2,0
+56,dubai,9,17,1
+56,las vegas,7,17,1
+43,london,5,20,1
+69,san francisco,10,9,0
+35,london,11,8,0
+67,new york,9,16,1
+35,new york,4,3,0
+46,san francisco,8,3,0
+70,san francisco,4,6,0
+46,london,10,13,0
+45,dubai,5,19,1
+60,san francisco,8,2,0
+32,san francisco,2,17,0
+48,new york,2,8,0
+69,dubai,10,20,1
+26,dubai,12,14,1
+65,san francisco,12,13,1
+45,san francisco,1,11,0
+18,san francisco,10,13,0
+42,new york,9,20,1
+45,london,5,5,0
+64,new york,1,8,0
+32,dubai,2,17,1
+63,new york,4,8,0
+44,dubai,6,13,1
+38,las vegas,11,5,0
+58,new york,9,17,1
+39,dubai,1,8,0
+60,las vegas,12,7,1
+34,new york,4,13,0
+66,las vegas,11,10,1
+55,san francisco,4,11,1
+46,las vegas,5,2,0
+70,san francisco,3,21,1
+47,dubai,9,21,1
+44,london,9,10,0
+40,new york,4,18,1
+64,london,1,9,0
+66,las vegas,12,2,0
+70,las vegas,12,15,1
+72,dubai,11,21,1
+37,san francisco,6,2,0
+68,dubai,9,5,1
+32,new york,5,8,0
+64,dubai,4,20,1
+54,las vegas,12,20,1
+29,dubai,11,10,0
+46,las vegas,11,21,1
+25,las vegas,12,14,1
+22,san francisco,1,20,0
+49,london,2,5,0
+67,london,3,17,1
+22,san francisco,11,8,0
+58,san francisco,1,20,1
+39,dubai,3,7,0
+43,san francisco,2,21,1
+33,dubai,4,6,0
+57,new york,1,15,1
+46,london,9,4,0
+60,new york,10,11,0
+63,las vegas,12,20,1
+38,las vegas,4,9,1
+50,new york,5,15,1
+62,new york,3,14,1
+59,dubai,2,20,1
+72,dubai,11,17,1
+62,london,10,5,0
+20,las vegas,1,9,0
+71,london,9,12,1
+61,san francisco,11,21,1
+40,london,1,9,0
+69,dubai,12,18,1
+71,new york,10,19,1
+36,new york,11,2,0
+41,san francisco,1,2,0
+19,las vegas,2,2,0
+66,las vegas,2,5,1
+36,london,8,7,0
+57,dubai,10,8,1
+39,new york,7,6,0
+39,new york,3,7,0
+55,dubai,6,11,1
+70,dubai,7,18,1
+27,san francisco,6,12,0
+37,new york,9,11,0
+70,new york,12,4,0
+31,london,4,9,0
+57,las vegas,2,4,0
+35,new york,9,9,0
+59,new york,1,18,1
+42,las vegas,11,5,0
+20,new york,8,8,0
+56,dubai,12,19,1
+30,san francisco,4,16,0
+55,dubai,9,8,1
+65,london,5,17,1
+30,las vegas,12,3,0
+37,las vegas,12,12,1
+60,las vegas,8,14,1
+67,san francisco,3,3,0
+45,london,4,19,1
+56,san francisco,4,20,1
+70,new york,4,10,1
+56,new york,10,15,0
+48,las vegas,4,11,1
+53,las vegas,5,7,1
+61,new york,9,14,1
+68,dubai,3,8,1
+63,las vegas,9,14,1
+31,dubai,3,9,0
+25,las vegas,1,21,1
+50,london,12,14,1
+62,san francisco,11,15,1
+18,london,7,15,0
+29,new york,5,9,0
+43,las vegas,11,4,0
+56,new york,9,12,1
+66,san francisco,6,13,1
+47,san francisco,10,19,1
+48,new york,11,20,1
+55,las vegas,3,4,0
+68,dubai,2,6,0
+22,san francisco,10,13,0
+30,new york,9,5,0
+63,london,12,7,0
+56,london,5,19,1
+33,london,5,13,0
+25,dubai,7,18,1
+43,dubai,12,9,1
+33,las vegas,9,2,0
+57,dubai,9,16,1
+27,new york,8,17,1
+23,dubai,2,18,0
+72,las vegas,10,19,1
+24,london,10,11,0
+41,las vegas,10,3,0
+50,london,9,14,1
+37,new york,1,4,0
+50,new york,2,21,1
+18,san francisco,5,21,0
+19,london,9,7,0
+25,las vegas,9,19,1
+61,san francisco,7,18,1
+40,london,3,11,0
+68,san francisco,2,16,1
+34,dubai,5,15,1
+35,dubai,4,3,0
+68,san francisco,1,11,0
+60,dubai,10,16,1
+70,las vegas,4,21,1
+62,london,4,16,1
+67,dubai,9,5,1
+48,london,9,21,1
+33,dubai,2,9,0
+65,san francisco,11,4,0
+71,san francisco,4,19,1
+62,london,8,20,1
+52,las vegas,2,6,1
+20,dubai,4,11,0
+62,las vegas,12,2,0
+30,london,8,7,0
+47,san francisco,5,7,0
+27,new york,9,5,0
+35,london,3,3,0
+63,san francisco,1,11,0
+25,london,8,13,1
+26,las vegas,11,7,0
+39,london,7,4,0
+69,new york,2,19,1
+23,las vegas,5,2,0
+58,san francisco,3,18,1
+24,new york,11,11,0
+43,dubai,1,18,1
+55,san francisco,11,15,0
+51,las vegas,4,19,1
+57,london,6,7,0
+44,dubai,5,4,0
+20,new york,7,14,0
+41,dubai,11,18,1
+42,new york,7,12,1
+60,san francisco,10,10,0
+56,san francisco,11,2,0
+72,london,4,8,1
+57,dubai,4,11,1
+49,london,10,8,0
+67,new york,4,17,1
+65,dubai,2,15,1
+18,san francisco,6,12,0
+18,new york,1,2,0
+50,dubai,11,8,0
+18,las vegas,5,18,1
+70,new york,11,7,0
+57,new york,10,17,1
+38,san francisco,10,4,0
+48,london,3,13,0
+46,san francisco,11,17,0
+46,new york,11,17,0
+49,new york,10,3,0
+21,london,4,21,0
+62,las vegas,2,11,1
+54,new york,6,12,1
+65,new york,12,7,0
+61,new york,5,11,1
+57,las vegas,3,7,1
+29,las vegas,2,11,1
+23,new york,5,2,0
+69,new york,7,8,1
+57,dubai,8,20,1
+19,london,8,16,1
+56,las vegas,4,12,1
+35,las vegas,3,10,1
+42,san francisco,3,10,0
+56,london,2,3,0
+27,san francisco,4,2,0
+55,las vegas,6,12,1
+63,new york,7,21,1
+30,london,2,9,0
+66,new york,10,20,1
+34,dubai,7,19,1
+65,new york,7,5,1
+56,las vegas,5,13,1
+31,san francisco,10,2,0
+39,new york,7,6,0
+59,london,4,20,1
+37,san francisco,10,2,0
+64,london,3,2,0
+25,san francisco,6,16,0
+53,dubai,5,3,0
+36,san francisco,2,17,0
+42,las vegas,3,4,0
+60,london,12,10,1
+42,san francisco,9,4,0
+45,san francisco,9,18,1
+25,new york,11,4,0
+67,new york,9,16,1
+57,dubai,2,2,0
+60,london,9,7,0
+47,new york,7,15,1
+65,las vegas,8,20,1
+46,las vegas,5,16,1
+21,san francisco,6,20,1
+58,san francisco,1,2,0
+24,dubai,10,10,0
+48,london,9,12,1
+71,san francisco,12,4,0
+38,new york,5,18,1
+62,dubai,6,9,1
+57,dubai,11,21,1
+25,dubai,12,13,1
+48,new york,10,17,0
+66,london,4,5,0
+45,dubai,5,7,1
+30,new york,1,10,0
+41,london,9,8,0
+56,london,3,9,0
+58,new york,11,9,0
+22,dubai,7,20,1
+28,dubai,7,17,1
+56,san francisco,6,16,1
+54,san francisco,1,17,1
+71,london,7,13,1
+20,san francisco,12,5,0
+42,dubai,11,13,1
+65,san francisco,8,11,1
+61,new york,4,12,1
+43,new york,12,19,1
+55,london,11,2,0
+66,new york,11,8,0
+47,las vegas,10,3,0
+48,london,11,17,0
+67,dubai,3,12,1
+24,new york,7,19,1
+30,san francisco,11,8,0
+23,las vegas,8,15,1
+38,new york,9,11,0
+43,dubai,8,21,1
+35,las vegas,1,18,1
+24,las vegas,12,12,1
+64,london,5,12,1
+51,las vegas,12,14,1
+19,new york,8,13,0
+39,las vegas,12,5,1
+49,las vegas,6,18,1
+18,new york,9,9,0
+65,new york,5,7,0
+37,new york,4,3,0
+62,new york,6,21,1
+19,london,12,10,0
+54,new york,8,5,0
+18,london,5,14,0
+24,dubai,12,5,0
+65,san francisco,8,19,1
+63,dubai,10,10,1
+26,dubai,7,17,1
+59,san francisco,3,10,0
+34,new york,7,8,1
+63,san francisco,8,14,1
+37,san francisco,8,2,0
+60,las vegas,3,10,1
+46,new york,2,5,0
+39,dubai,7,4,1
+25,dubai,4,2,0
+18,new york,11,16,0
+26,las vegas,6,16,1
+22,san francisco,1,14,0
+65,new york,4,8,0
+34,san francisco,2,13,0
+58,san francisco,11,21,1
+67,dubai,3,14,1
+53,london,11,9,0
+56,las vegas,8,21,1
+29,london,4,13,0
+26,dubai,12,7,0
+19,new york,8,14,0
+68,new york,6,9,1
+53,new york,9,15,1
+23,new york,10,20,0
+24,new york,4,6,0
+24,san francisco,1,19,0
+63,london,2,8,0
+21,san francisco,8,12,0
+29,las vegas,6,18,1
+54,san francisco,10,10,0
+36,london,3,5,0
+43,london,6,5,0
+67,las vegas,10,7,1
+19,london,9,13,0
+51,london,4,18,1
+61,london,3,11,0
+51,london,9,15,1
+29,san francisco,5,19,0
+61,san francisco,2,2,0
+22,london,7,7,0
+22,san francisco,3,17,0
+27,dubai,5,9,0
+53,las vegas,4,11,1
+69,new york,10,11,0
+34,dubai,5,15,1
+66,dubai,7,8,1
+60,dubai,9,14,1
+29,dubai,9,8,0
+43,dubai,6,2,0
+40,san francisco,10,2,0
+22,new york,9,3,0
+44,san francisco,12,16,1
+55,london,1,2,0
+54,las vegas,6,3,1
+71,new york,5,14,1
+47,dubai,9,16,1
+61,san francisco,9,21,1
+35,dubai,9,18,1
+29,las vegas,10,6,0
+49,las vegas,5,8,1
+20,london,8,11,0
+34,san francisco,5,13,0
+68,san francisco,5,13,1
+43,las vegas,10,5,0
+43,san francisco,1,10,0
+37,san francisco,3,3,0
+25,london,6,17,0
+44,las vegas,11,13,1
+31,san francisco,4,21,1
+40,san francisco,2,7,0
+65,london,7,16,1
+57,london,5,6,0
+51,new york,10,7,0
+42,new york,5,21,1
+44,london,9,4,0
+25,new york,8,10,0
+50,new york,12,18,1
+34,new york,3,15,0
+38,london,12,7,0
+58,dubai,5,17,1
+48,las vegas,4,13,1
+20,san francisco,9,5,0
+64,dubai,7,10,1
+66,las vegas,9,7,1
+57,london,4,12,1
+63,san francisco,8,21,1
+54,new york,12,8,0
+48,dubai,9,8,1
+66,san francisco,5,19,1
+37,san francisco,12,12,0
+18,new york,3,5,0
+72,san francisco,11,15,1
+34,london,5,18,1
+31,las vegas,4,9,1
+52,dubai,3,9,1
+25,london,11,13,0
+66,london,9,3,0
+72,new york,11,3,0
+29,dubai,6,14,1
+45,new york,3,4,0
+39,dubai,4,7,0
+67,dubai,10,12,1
+39,london,10,16,0
+71,san francisco,11,12,0
+51,san francisco,12,10,0
+72,new york,11,16,1
+58,las vegas,1,15,1
+22,new york,6,6,0
+42,dubai,12,19,1
+53,new york,4,19,1
+60,new york,4,7,0
+69,new york,7,6,1
+65,las vegas,2,5,1
+68,new york,12,11,1
+33,dubai,1,2,0
+32,new york,1,17,0
+24,dubai,11,12,0
+53,dubai,12,21,1
+58,san francisco,11,11,0
+21,las vegas,9,19,1
+37,dubai,1,17,1
+31,san francisco,12,16,0
+19,london,5,17,0
+52,dubai,10,14,1
+27,london,9,8,0
+24,las vegas,6,17,1
+53,new york,12,15,1
+72,las vegas,7,8,1
+68,san francisco,7,10,1
+68,london,3,4,0
+31,london,10,18,0
+38,london,3,10,0
+47,new york,6,7,0
+56,san francisco,10,3,0
+54,dubai,7,12,1
+32,london,9,10,0
+52,london,11,12,0
+50,london,8,18,1
+32,london,4,16,0
+23,new york,4,7,0
+55,london,12,17,1
+27,london,5,20,0
+19,dubai,1,15,0
+21,new york,1,6,0
+34,las vegas,7,20,1
+57,london,1,6,0
+37,london,2,9,0
+38,london,6,4,0
+29,las vegas,8,14,1
+25,las vegas,7,20,1
+45,london,2,6,0
+70,new york,6,15,1
+51,new york,2,2,0
+51,san francisco,11,17,0
+49,london,7,21,1
+28,dubai,2,21,1
+20,london,12,2,0
+56,new york,11,18,1
+51,london,12,20,1
+29,las vegas,1,11,1
+53,london,11,19,1
+58,dubai,12,21,1
+30,london,8,9,0
+38,san francisco,11,3,0
+38,dubai,4,2,0
+18,dubai,8,16,1
+71,dubai,10,18,1
+51,new york,1,14,0
+23,london,11,19,0
+61,dubai,7,8,1
+45,san francisco,12,20,1
+25,new york,12,18,0
+62,london,1,12,0
+56,san francisco,10,17,1
+70,dubai,11,11,1
+71,las vegas,8,5,1
+26,las vegas,2,15,1
+62,san francisco,7,3,0
+27,dubai,2,13,0
+58,dubai,12,21,1
+27,san francisco,10,13,0
+71,las vegas,3,2,0
+45,las vegas,12,2,0
+53,san francisco,7,7,1
+37,new york,11,20,0
+64,dubai,6,16,1
+46,las vegas,4,2,0
+36,las vegas,1,21,1
+46,las vegas,12,7,1
+71,las vegas,3,13,1
+63,las vegas,3,7,1
+44,las vegas,2,8,1
+21,san francisco,5,13,0
+43,london,3,11,0
+69,las vegas,3,11,1
+22,new york,7,9,0
+29,london,11,6,0
+29,new york,10,12,0
+69,las vegas,4,9,1
+30,san francisco,2,20,0
+42,new york,5,18,1
+72,dubai,4,15,1
+72,new york,6,16,1
+67,london,6,10,1
+33,london,7,2,0
+68,new york,4,7,0
+25,las vegas,7,7,1
+51,dubai,7,2,0
+68,san francisco,9,7,0
+64,las vegas,8,8,1
+28,dubai,4,2,0
+39,las vegas,5,12,1
+46,new york,7,13,1
+51,san francisco,7,2,0
+32,san francisco,5,5,0
+41,san francisco,3,20,0
+18,new york,5,5,0
+49,new york,6,7,0
+58,new york,3,17,1
+65,san francisco,4,21,1
+29,london,7,6,0
+69,las vegas,6,11,1
+39,san francisco,11,19,0
+53,new york,9,8,0
+69,new york,2,18,1
+24,london,2,11,0
+53,las vegas,12,13,1
+20,las vegas,7,9,1
+25,dubai,3,15,0
+70,dubai,7,9,1
+19,london,3,18,0
+64,london,6,9,1
+47,san francisco,3,17,0
+35,dubai,7,17,1
+57,new york,10,16,1
+30,las vegas,8,8,1
+55,san francisco,3,4,0
+50,new york,3,3,0
+59,new york,5,10,0
+57,las vegas,5,15,1
+48,san francisco,8,13,1
+68,dubai,8,3,1
+19,las vegas,6,2,0
+26,london,3,15,0
+34,london,9,6,0
+22,dubai,4,9,0
+57,las vegas,8,16,1
+23,las vegas,11,21,1
+39,san francisco,11,17,0
+56,las vegas,5,18,1
+58,new york,11,4,0
+19,las vegas,8,9,1
+51,dubai,5,19,1
+36,las vegas,2,20,1
+27,london,5,18,0
+40,new york,1,10,0
+43,las vegas,2,15,1
+21,new york,3,19,0
+60,san francisco,3,5,0
+33,new york,9,3,0
+25,san francisco,8,2,0
+53,dubai,5,20,1
+56,san francisco,4,10,0
+59,london,5,7,0
+46,las vegas,5,8,1
+67,las vegas,12,13,1
+42,london,4,7,0
+34,dubai,10,7,0
+35,london,7,5,0
+67,dubai,11,21,1
+34,dubai,5,21,1
+60,san francisco,3,13,0
+37,las vegas,12,2,0
+52,san francisco,5,11,0
+69,london,7,21,1
+50,las vegas,5,9,1
+24,new york,4,12,0
+56,las vegas,8,18,1
+30,las vegas,2,15,0
+47,new york,3,11,0
+32,new york,6,18,0
+71,london,2,20,0
+37,london,5,13,0
+32,las vegas,9,13,0
+46,dubai,7,5,0
+51,las vegas,8,6,0
